@@ -5,5 +5,5 @@ I have started to learn Full Stack Web Development so I can't spend to much time
 as my personal achivements.
 
 Day 1 & 2:-
-Creted the simple projects and a flag of Laos with the help of Internal CSS.
+Created the simple projects and a flag of Laos with the help of Internal CSS.
 
